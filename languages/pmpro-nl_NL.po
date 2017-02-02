@@ -3095,7 +3095,7 @@ msgstr "Eindigt op"
 #: pages/confirmation.php:97 pages/confirmation.php:95
 #, php-format
 msgid ""
-"Below are details about your membership account. A welcome email with has "
+"Below are details about your membership account. A welcome email has "
 "been sent to %s."
 msgstr ""
 "Hieronder staan de details m.b.t. je lidmaatschapsgegevens. Een welkom e-"
